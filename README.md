@@ -17,10 +17,8 @@ avrdude -p atmega32u4 -c avr109 -U flash:w:atreus_astar.hex -P /dev/cu.usbmodem1
 1. `brew install avrdude`
 
 ## Layout
-
-<img width="685" alt="Screen Shot 2020-05-12 at 10 53 37 PM" src="https://user-images.githubusercontent.com/1154569/81775945-ad389200-94a2-11ea-9064-ef8af0b6fd37.png">
-<img width="691" alt="Screen Shot 2020-05-12 at 10 53 43 PM" src="https://user-images.githubusercontent.com/1154569/81775946-ae69bf00-94a2-11ea-94bd-460535b1fc70.png">
-<img width="684" alt="Screen Shot 2020-05-12 at 10 53 49 PM" src="https://user-images.githubusercontent.com/1154569/81775948-af9aec00-94a2-11ea-9608-057dac9d884c.png">
-<img width="677" alt="Screen Shot 2020-05-12 at 10 53 54 PM" src="https://user-images.githubusercontent.com/1154569/81775952-b164af80-94a2-11ea-8135-0c6b2af328bf.png">
-<img width="677" alt="Screen Shot 2020-05-12 at 10 54 01 PM" src="https://user-images.githubusercontent.com/1154569/81775955-b3c70980-94a2-11ea-951a-cb9314ba8b32.png">
-
+<img width="682" alt="Screen Shot 2020-05-13 at 12 22 58 AM" src="https://user-images.githubusercontent.com/1154569/81782635-fb539280-94ae-11ea-9d84-8262f02cdcb0.png">
+<img width="686" alt="Screen Shot 2020-05-13 at 12 23 04 AM" src="https://user-images.githubusercontent.com/1154569/81782642-fd1d5600-94ae-11ea-9bec-40667529df33.png">
+<img width="678" alt="Screen Shot 2020-05-13 at 12 23 11 AM" src="https://user-images.githubusercontent.com/1154569/81782648-fee71980-94ae-11ea-9997-7de1f4e0c547.png">
+<img width="677" alt="Screen Shot 2020-05-13 at 12 23 17 AM" src="https://user-images.githubusercontent.com/1154569/81782652-00184680-94af-11ea-918a-4e90a6a110b7.png">
+<img width="683" alt="Screen Shot 2020-05-13 at 12 23 24 AM" src="https://user-images.githubusercontent.com/1154569/81782659-01e20a00-94af-11ea-88b3-8a9045dc8563.png">
