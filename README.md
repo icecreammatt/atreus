@@ -17,8 +17,18 @@ avrdude -p atmega32u4 -c avr109 -U flash:w:atreus_astar.hex -P /dev/cu.usbmodem1
 1. `brew install avrdude`
 
 ## Layout
-<img width="889" alt="Screen Shot 2020-05-15 at 5 53 37 PM" src="https://user-images.githubusercontent.com/1154569/82106388-75656080-96d5-11ea-834b-90dae43cea47.png">
-<img width="890" alt="Screen Shot 2020-05-15 at 5 53 24 PM" src="https://user-images.githubusercontent.com/1154569/82106391-78f8e780-96d5-11ea-91bb-f649d7a67db0.png">
-<img width="888" alt="Screen Shot 2020-05-15 at 5 53 48 PM" src="https://user-images.githubusercontent.com/1154569/82106394-7d250500-96d5-11ea-9f7d-c4e50c8abf4e.png">
-<img width="878" alt="Screen Shot 2020-05-15 at 5 53 58 PM" src="https://user-images.githubusercontent.com/1154569/82106400-7f875f00-96d5-11ea-9d9f-d9e1c0b53ac2.png">
-<img width="875" alt="Screen Shot 2020-05-15 at 5 54 13 PM" src="https://user-images.githubusercontent.com/1154569/82106404-82824f80-96d5-11ea-8aa7-75c040c196ce.png">
+
+> Layer 0 (Default)
+<img width="601" alt="Screen Shot 2020-05-26 at 7 28 19 AM" src="https://user-images.githubusercontent.com/1154569/83106012-94b6a300-a070-11ea-88fd-aec2d737e21e.png">
+
+> Layer 1 (Special)
+<img width="602" alt="Screen Shot 2020-05-26 at 7 28 25 AM" src="https://user-images.githubusercontent.com/1154569/83106015-9718fd00-a070-11ea-9d71-1ec7fd0b3ede.png">
+
+> Layer 2 (10 key and F keys)
+<img width="606" alt="Screen Shot 2020-05-26 at 7 28 29 AM" src="https://user-images.githubusercontent.com/1154569/83106024-997b5700-a070-11ea-9f0d-9a3d078aaf4f.png">
+
+> Layer 3 (Gaming / FPS)
+<img width="601" alt="Screen Shot 2020-05-26 at 7 28 34 AM" src="https://user-images.githubusercontent.com/1154569/83106030-9b451a80-a070-11ea-803c-ed9f9bb724d2.png">
+
+> Layer 9
+<img width="605" alt="Screen Shot 2020-05-26 at 7 28 39 AM" src="https://user-images.githubusercontent.com/1154569/83106093-b7e15280-a070-11ea-8a0b-b523ec0a58a9.png">
