@@ -19,16 +19,12 @@ avrdude -p atmega32u4 -c avr109 -U flash:w:atreus_astar.hex -P /dev/cu.usbmodem1
 ## Layout
 
 > Layer 0 (Default)
-<img width="601" alt="Screen Shot 2020-05-26 at 7 28 19 AM" src="https://user-images.githubusercontent.com/1154569/83106012-94b6a300-a070-11ea-88fd-aec2d737e21e.png">
-
+<img width="1205" alt="layer0" src="https://user-images.githubusercontent.com/1154569/131729357-2272c19f-7294-4e28-b92c-d3699a147939.png">
 > Layer 1 (Special)
-<img width="602" alt="Screen Shot 2020-05-26 at 7 28 25 AM" src="https://user-images.githubusercontent.com/1154569/83106015-9718fd00-a070-11ea-9d71-1ec7fd0b3ede.png">
-
+<img width="1194" alt="layer1" src="https://user-images.githubusercontent.com/1154569/131729365-71830523-116d-46da-bf23-a53656c740de.png">
 > Layer 2 (10 key and F keys)
-<img width="606" alt="Screen Shot 2020-05-26 at 7 28 29 AM" src="https://user-images.githubusercontent.com/1154569/83106024-997b5700-a070-11ea-9f0d-9a3d078aaf4f.png">
-
+<img width="1196" alt="layer2" src="https://user-images.githubusercontent.com/1154569/131729369-df406f10-1ca7-4659-aa72-0e1a577e8652.png">
 > Layer 3 (Gaming / FPS)
-<img width="601" alt="Screen Shot 2020-05-26 at 7 28 34 AM" src="https://user-images.githubusercontent.com/1154569/83106030-9b451a80-a070-11ea-803c-ed9f9bb724d2.png">
-
+<img width="1205" alt="layer3" src="https://user-images.githubusercontent.com/1154569/131729372-32726285-9bdb-4fea-bb6f-0b63ee9bc745.png">
 > Layer 9
-<img width="605" alt="Screen Shot 2020-05-26 at 7 28 39 AM" src="https://user-images.githubusercontent.com/1154569/83106093-b7e15280-a070-11ea-8a0b-b523ec0a58a9.png">
+<img width="1202" alt="layer9" src="https://user-images.githubusercontent.com/1154569/131729374-fbf61111-e7d4-42d9-acf9-a2d7c11cd4e5.png">
