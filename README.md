@@ -19,12 +19,12 @@ avrdude -p atmega32u4 -c avr109 -U flash:w:atreus_astar.hex -P /dev/cu.usbmodem1
 ## Layout
 
 > Layer 0 (Default)
-<img width="1205" alt="layer0" src="https://user-images.githubusercontent.com/1154569/131729357-2272c19f-7294-4e28-b92c-d3699a147939.png">
+<img width="1205" alt="layer0" src="https://user-images.githubusercontent.com/1154569/132023651-ea615bfe-b710-413e-b7de-4cf5d575460f.png">
 > Layer 1 (Special)
-<img width="1194" alt="layer1" src="https://user-images.githubusercontent.com/1154569/131729365-71830523-116d-46da-bf23-a53656c740de.png">
+<img width="1199" alt="layer1" src="https://user-images.githubusercontent.com/1154569/132023658-77c159f5-f4aa-4865-a9bd-a0f0742964f4.png">
 > Layer 2 (10 key and F keys)
-<img width="1196" alt="layer2" src="https://user-images.githubusercontent.com/1154569/131729369-df406f10-1ca7-4659-aa72-0e1a577e8652.png">
+<img width="1196" alt="layer2" src="https://user-images.githubusercontent.com/1154569/132023662-80e69f74-d10e-4e16-8e5f-be9a924da33f.png">
 > Layer 3 (Gaming / FPS)
-<img width="1205" alt="layer3" src="https://user-images.githubusercontent.com/1154569/131729372-32726285-9bdb-4fea-bb6f-0b63ee9bc745.png">
+<img width="1199" alt="layer3" src="https://user-images.githubusercontent.com/1154569/132023665-9a2e8838-fd23-4a73-afce-248c4e499a5d.png">
 > Layer 9
-<img width="1202" alt="layer9" src="https://user-images.githubusercontent.com/1154569/131729374-fbf61111-e7d4-42d9-acf9-a2d7c11cd4e5.png">
+<img width="1197" alt="layer9" src="https://user-images.githubusercontent.com/1154569/132023669-a78ce815-9763-4ba2-b976-852e1c7fa577.png">
